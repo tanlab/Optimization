@@ -1,0 +1,8 @@
+cikarilan_smiles,baslangic_smiles,distance,optimized_smiles
+CC(=O)OC12COC1CC(O)C1(C)C(=O)C(O)C3=C(C)C(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c4ccccc4)CC(O)(C(OC(=O)c4ccccc4)C21)C3(C)C,CC(=O)OC12COC1C1(C(C)CC2O)C(OC(=O)C(O)c2ccccc2)CC(C)(O)C(=O)C2=C(C)CC(O)C1C2OC(=O)C(NC(=O)OC(C)(C)C)C(N)=O,6.282722326477447,CC(=O)OC(=O)C(C)C(O)C(O)C(OC1=CC(NC(=O)C(C)C)=C2OC2(O)C1)C(=O)O
+CC(O)(CS(=O)(=O)c1ccc(F)cc1)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1,CC(O)CS(=O)(=O)c1cc(F)c(C(=O)NC(C#N)c2cccc(F)c2)c(F)c1,6.499608617867247,CC(O)(CSC(C(=O)[O-])c1cccc(F)c1)c1ccc(F)cc1Br
+CC(=O)OC12COC1CC(O)C1(C)C(=O)C(O)C3=C(C)C(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c4ccccc4)CC(O)(C(OC(=O)c4ccccc4)C21)C3(C)C.O.O.O,CC(C)(C)OC(=O)C(CO)C(=O)NC1(O)c2ccc(O)cc2OC23C=CC=CC21C(O)=C(O)C3=O,6.579099496610897,CC(=O)OC(=O)OCC(O)C12C=CC=CC1(O)C(=O)C=C2O
+CNC(=O)c1ccc(N2C(=S)N(c3ccc(C#N)c(C(F)(F)F)c3)C(=O)C2(C)C)cc1F,CNC(=O)c1ccc(NN=C2C(=O)N(c3cc(C)c(C)c(Cl)c3)c3ccc(C(=O)F)c(C(F)(F)F)c32)cc1,6.3829181290036,CNC(=O)c1ccc(NNC(=O)c2c(C)cc(Br)c(C(F)(F)F)c2Cl)cc1
+CC(C)C(=O)Oc1ccc(CO)cc1C(CCN(C(C)C)C(C)C)c1ccccc1,CC(C)Oc1c(OC(=O)C(CCN(C)Cc2ccccc2)C(O)C(C)C)cccc1C(C)C,5.834186266105601,Cc1cccc(C(CC(=O)NC(CO)C(C)C)C(C)C)c1
+CC(C)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1,CC(C)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1,6.157499469883254,CC(C)C(=O)NC(C)c1cccc(F)c1F
+CNC(=O)c1ccc(N2C(=S)N(c3cnc(C#N)c(C(F)(F)F)c3)C(=O)C23CCC3)cc1F,CNC(=O)c1ccc(NC(=O)C(=O)NC2COC3(C)C(F)=CC(F)=C(F)C3(c3cc(Cl)c4ccccc4c3)O2)cc1Cl,6.947794897668969,CNC(=O)Nc1cc(F)cc(F)c1S(=O)(=O)C(CF)C1=C(Cl)C(=O)c2c(F)cccc21
